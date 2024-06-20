@@ -81,7 +81,12 @@ def extract_sub_link(sub_links):
         wait = WebDriverWait(driver, 10)
         frame = wait.until(EC.frame_to_be_available_and_switch_to_it((By.ID, 'frame1')))
 
-        form = driver.find_element(By.TAG_NAME, 'form')
+        while True:
+            try:
+                form = driver.find_element(By.TAG_NAME, 'form')
+                break
+            except:
+                driver.refresh()
 
         rnpa = item['rnpa']
         rne = form.find_elements(By.TAG_NAME, 'table')[1].find_elements(By.TAG_NAME, 'tr')[1].find_elements(By.TAG_NAME, 'td')[0].text

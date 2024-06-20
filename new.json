@@ -1,0 +1,3536 @@
+[
+    {
+        "rnpa": "02710036",
+        "rne": "02033324",
+        "denominaci\u00f3n": "SABORIZANTE IDENTICO AL NATURAL MIEL - USO INDUSTRIAL ALIMENTARIO",
+        "marca": "ESSENTIAL",
+        "nombreDeFantas\u00eda": "MIEL",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.494",
+            "cuit": "30-69505443-9",
+            "domicilio": "Venezuela 4928, BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T14:51:35.951Z",
+        "updatedAt": "2024-06-07T14:51:35.951Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2024-09-23T00:00:00"
+    },
+    {
+        "rnpa": "02509510",
+        "rne": "02031670",
+        "denominaci\u00f3n": "GALLETITAS DULCES CON LECHE Y MIEL",
+        "marca": "MARTIN",
+        "nombreDeFantas\u00eda": "LECHE MIEL",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.494",
+            "cuit": "30-50205448-8",
+            "domicilio": "13 NRO.437, BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T14:51:53.665Z",
+        "updatedAt": "2024-06-07T14:51:53.665Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2025-11-17T00:00:00"
+    },
+    {
+        "rnpa": "02572884",
+        "rne": "02032041",
+        "denominaci\u00f3n": "PROP\u00d3LEO AL 2% Y MIEL EN SOLUCI\u00d3N DE PROPILENGLICOL",
+        "marca": "GOLD FISH",
+        "nombreDeFantas\u00eda": "PROP\u00d3LEO",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.494",
+            "cuit": "30-65279599-0",
+            "domicilio": "Brasil 1100, BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T14:52:12.168Z",
+        "updatedAt": "2024-06-07T14:52:12.168Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2025-05-12T00:00:00"
+    },
+    {
+        "rnpa": "02710171",
+        "rne": "02031280",
+        "denominaci\u00f3n": "MIEL. LIBRE DE GLUTEN",
+        "marca": "ALELUYA",
+        "nombreDeFantas\u00eda": "MIEL UNTABLE",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.494",
+            "cuit": "30-61497470-9",
+            "domicilio": "Lavalle 1168, BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T14:52:31.034Z",
+        "updatedAt": "2024-06-07T14:52:31.034Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2024-10-24T00:00:00"
+    },
+    {
+        "rnpa": "02710179",
+        "rne": "02035099",
+        "denominaci\u00f3n": "GALLETITAS DULCES SABOR A VAINILLA CON AVENA Y MIEL",
+        "marca": "CAUTIVA",
+        "nombreDeFantas\u00eda": "CAUTIVA. CON AVENA, LECHE Y MIEL.",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.494",
+            "cuit": "30-71242302-8",
+            "domicilio": "Almirante Brown 3854, BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T14:52:51.540Z",
+        "updatedAt": "2024-06-07T14:52:51.540Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2024-10-28T00:00:00"
+    },
+    {
+        "rnpa": "02598286",
+        "rne": "02035414",
+        "denominaci\u00f3n": "MIEL CREMOSA MULTIFLORAL. LIBRE DE GLUTEN",
+        "marca": "PAMPERO",
+        "nombreDeFantas\u00eda": "MONTE NATIVO",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.494",
+            "cuit": "30-71357880-7",
+            "domicilio": "Ruta Provincial 76 e/ Sarmiento y Dorrego, BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T14:53:10.787Z",
+        "updatedAt": "2024-06-07T14:53:10.788Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2026-09-13T00:00:00"
+    },
+    {
+        "rnpa": "02523816",
+        "rne": "02032975",
+        "denominaci\u00f3n": "PREPARADO EN PASTA SEMIELABORADO PARA HELADER\u00cdA SABOR A FRUTILLA",
+        "marca": "FABBRI",
+        "nombreDeFantas\u00eda": "DELIPASTE FRAGOLA FRUTILLA",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.494",
+            "cuit": "30-68519041-5",
+            "domicilio": "COLECTORA OESTE KM 38 N\ufffd180, BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T14:53:28.927Z",
+        "updatedAt": "2024-06-07T14:53:28.928Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2027-04-21T00:00:00"
+    },
+    {
+        "rnpa": "02598285",
+        "rne": "02035414",
+        "denominaci\u00f3n": "MIEL CREMOSA MULTIFLORAL. LIBRE DE GLUTEN",
+        "marca": "PAMPERO",
+        "nombreDeFantas\u00eda": "CORD\u00d3N SERRANO",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.494",
+            "cuit": "30-71357880-7",
+            "domicilio": "Ruta Provincial 76 e/ Sarmiento y Dorrego, BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T14:53:50.182Z",
+        "updatedAt": "2024-06-07T14:53:50.182Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2026-09-13T00:00:00"
+    },
+    {
+        "rnpa": "02598284",
+        "rne": "02035414",
+        "denominaci\u00f3n": "MIEL CREMOSA MULTIFLORAL. LIBRE DE GLUTEN",
+        "marca": "PAMPERO",
+        "nombreDeFantas\u00eda": "PRADERAS H\u00daMEDAS",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.494",
+            "cuit": "30-71357880-7",
+            "domicilio": "Ruta Provincial 76 e/ Sarmiento y Dorrego, BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T14:54:08.856Z",
+        "updatedAt": "2024-06-07T14:54:08.856Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2026-09-13T00:00:00"
+    },
+    {
+        "rnpa": "02598283",
+        "rne": "02035414",
+        "denominaci\u00f3n": "MIEL CREMOSA MULTIFLORAL. LIBRE DE GLUTEN",
+        "marca": "PAMPERO",
+        "nombreDeFantas\u00eda": "PRADERAS SECAS",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.494",
+            "cuit": "30-71357880-7",
+            "domicilio": "Ruta Provincial 76 e/ Sarmiento y Dorrego, BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T14:54:26.773Z",
+        "updatedAt": "2024-06-07T14:54:26.773Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2026-09-13T00:00:00"
+    },
+    {
+        "rnpa": "02700830",
+        "rne": "02040066",
+        "denominaci\u00f3n": "CERVEZA EXTRA CON MIEL",
+        "marca": "TEMPLE",
+        "nombreDeFantas\u00eda": "HONEY",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.494",
+            "cuit": "30-71548308-0",
+            "domicilio": "Colectora Acceso Norte y Ambrosetti N\ufffd 2237, BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T14:54:46.367Z",
+        "updatedAt": "2024-06-07T14:54:46.367Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2024-09-26T00:00:00"
+    },
+    {
+        "rnpa": "02710259",
+        "rne": "02562339",
+        "denominaci\u00f3n": "MIEL CREMOSA",
+        "marca": "MONTECITOS",
+        "nombreDeFantas\u00eda": "MONTECITOS",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.494",
+            "cuit": "30-71567449-8",
+            "domicilio": "Belgrano S/N, BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T14:55:04.010Z",
+        "updatedAt": "2024-06-07T14:55:04.010Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2024-11-20T00:00:00"
+    },
+    {
+        "rnpa": "02710262",
+        "rne": "02040181",
+        "denominaci\u00f3n": "MIEL CREMOSA LIBRE DE GLUTEN",
+        "marca": "GRAZIANO C M Y L SH",
+        "nombreDeFantas\u00eda": "GRAZIANO C M Y L SH",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.494",
+            "cuit": "30-70835989-7",
+            "domicilio": "ZONA RURAL C v- SECC.a-CH.5-FRACC.1- PARC. 23 C -PART 498, BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T14:55:26.769Z",
+        "updatedAt": "2024-06-07T14:55:26.769Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2024-11-21T00:00:00"
+    },
+    {
+        "rnpa": "02710266",
+        "rne": "02562339",
+        "denominaci\u00f3n": "MIEL ORG\u00c1NICA",
+        "marca": "MONTECITOS",
+        "nombreDeFantas\u00eda": "MONTECITOS",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.494",
+            "cuit": "30-71567449-8",
+            "domicilio": "Belgrano S/N, BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T14:55:44.575Z",
+        "updatedAt": "2024-06-07T14:55:44.575Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2024-11-22T00:00:00"
+    },
+    {
+        "rnpa": "02580018",
+        "rne": "02033656",
+        "denominaci\u00f3n": "MIEL DE ABEJAS",
+        "marca": "DON NACHO",
+        "nombreDeFantas\u00eda": "DON NACHO",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.494",
+            "cuit": "20-10725338-7",
+            "domicilio": "42 N\ufffd 1285, BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T14:56:03.739Z",
+        "updatedAt": "2024-06-07T14:56:03.739Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2026-10-04T00:00:00"
+    },
+    {
+        "rnpa": "02588607",
+        "rne": "02030625",
+        "denominaci\u00f3n": "AROMATIZANTE ID\u00c9NTICO AL NATURAL MIEL (SOLUCI\u00d3N) - USO INDUSTRIAL ALIMENTARIO",
+        "marca": "FIRMENICH",
+        "nombreDeFantas\u00eda": "",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.494",
+            "cuit": "33-53487696-9",
+            "domicilio": "RUTA PANAMERICANA E/202 Y RIO RECONQUISTA, BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T14:56:24.157Z",
+        "updatedAt": "2024-06-07T14:56:24.157Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2025-07-13T00:00:00"
+    },
+    {
+        "rnpa": "02710313",
+        "rne": "02031305",
+        "denominaci\u00f3n": "PRODUCTO A BASE DE MIEL Y MALTODEXTRINA EN POLVO. USO INDUSTRIAL ALIMENTARIO",
+        "marca": "GIVAUDAN",
+        "nombreDeFantas\u00eda": "",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.494",
+            "cuit": "30-53619620-6",
+            "domicilio": "SAN LORENZO N\ufffd 4759, BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T14:56:41.703Z",
+        "updatedAt": "2024-06-07T14:56:41.703Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2024-12-04T00:00:00"
+    },
+    {
+        "rnpa": "02710319",
+        "rne": "",
+        "denominaci\u00f3n": "MIEL CREMOSA",
+        "marca": "COLMENARES DEL CAHP",
+        "nombreDeFantas\u00eda": "COLMENARES DEL CAHP",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.494",
+            "cuit": "27-21009472-0",
+            "domicilio": ", BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T14:56:59.102Z",
+        "updatedAt": "2024-06-07T14:56:59.102Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2024-12-04T00:00:00"
+    },
+    {
+        "rnpa": "02710320",
+        "rne": "",
+        "denominaci\u00f3n": "MIEL",
+        "marca": "COLMENARES DEL CAHP",
+        "nombreDeFantas\u00eda": "COLMENARES DEL CAHP",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.494",
+            "cuit": "27-21009472-0",
+            "domicilio": ", BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T14:57:17.146Z",
+        "updatedAt": "2024-06-07T14:57:17.146Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2024-12-04T00:00:00"
+    },
+    {
+        "rnpa": "02710321",
+        "rne": "02040202",
+        "denominaci\u00f3n": "MIEL DE ABEJA",
+        "marca": "COOPERATIVA AMUYEN",
+        "nombreDeFantas\u00eda": "COOPERATIVA AMUYEN",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.494",
+            "cuit": "33-71078645-9",
+            "domicilio": "LAS HERAS 4990, BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T14:57:35.285Z",
+        "updatedAt": "2024-06-07T14:57:35.285Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2024-12-05T00:00:00"
+    },
+    {
+        "rnpa": "02710327",
+        "rne": "02562339",
+        "denominaci\u00f3n": "MIEL",
+        "marca": "MONTECITOS",
+        "nombreDeFantas\u00eda": "MIEL DE NARANJO",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.494",
+            "cuit": "30-71567449-8",
+            "domicilio": "Belgrano S/N, BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T14:57:54.615Z",
+        "updatedAt": "2024-06-07T14:57:54.616Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2024-12-09T00:00:00"
+    },
+    {
+        "rnpa": "02710328",
+        "rne": "02562339",
+        "denominaci\u00f3n": "MIEL",
+        "marca": "MONTECITOS",
+        "nombreDeFantas\u00eda": "MIEL DE CITRUS",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.494",
+            "cuit": "30-71567449-8",
+            "domicilio": "Belgrano S/N, BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T14:58:13.702Z",
+        "updatedAt": "2024-06-07T14:58:13.702Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2024-12-09T00:00:00"
+    },
+    {
+        "rnpa": "02710341",
+        "rne": "02562339",
+        "denominaci\u00f3n": "MIEL",
+        "marca": "MONTECITOS",
+        "nombreDeFantas\u00eda": "MIEL L\u00cdQUIDA",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.494",
+            "cuit": "30-71567449-8",
+            "domicilio": "Belgrano S/N, BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T14:58:32.626Z",
+        "updatedAt": "2024-06-07T14:58:32.626Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2024-12-10T00:00:00"
+    },
+    {
+        "rnpa": "02710349",
+        "rne": "02032123",
+        "denominaci\u00f3n": "CERVEZA EXTRA CON TRIGO Y MIEL ? EN BARRIL-",
+        "marca": "KIL\u00d3METRO 24,7 ABRAZO DE OSO",
+        "nombreDeFantas\u00eda": "",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.494",
+            "cuit": "33-50835825-9",
+            "domicilio": "Ruta 9 Km 94, BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T14:58:50.822Z",
+        "updatedAt": "2024-06-07T14:58:50.822Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2024-12-12T00:00:00"
+    },
+    {
+        "rnpa": "02511371",
+        "rne": "02032362",
+        "denominaci\u00f3n": "ALIMENTO A BASE DE HARINA DE GRAHAM, AVENA ARROLLADA, SACAROSA Y MIEL CON SABOR A MIEL (ART.G.M.C.09/07)",
+        "marca": "TRIGUITOS INSEL",
+        "nombreDeFantas\u00eda": "ANILLOS DE AVENA Y MIEL",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.494",
+            "cuit": "30-51971090-7",
+            "domicilio": "CAZADORES DE COQUIMBO 3560, BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T14:59:08.462Z",
+        "updatedAt": "2024-06-07T14:59:08.462Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2027-03-17T00:00:00"
+    },
+    {
+        "rnpa": "02511367",
+        "rne": "02032362",
+        "denominaci\u00f3n": "PRODUCTO A BASE DE HARINA DE GRAHAM, GERMEN DE TRIGO Y AZ\u00daCAR CON SABOR A MIEL Y DULCE DE LECHE.",
+        "marca": "TRIGUITOS INSEL",
+        "nombreDeFantas\u00eda": "CROCANTE DE GERMEN",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.494",
+            "cuit": "30-51971090-7",
+            "domicilio": "CAZADORES DE COQUIMBO 3560, BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T14:59:28.769Z",
+        "updatedAt": "2024-06-07T14:59:28.769Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2027-03-30T00:00:00"
+    },
+    {
+        "rnpa": "02592108",
+        "rne": "02032041",
+        "denominaci\u00f3n": "MEZCLA DE MANZANILLA, HIERBAS Y P\u00c9TALOS DE ROSA. SABOR MIEL Y VAINILLA, PARA INFUSI\u00d3N, EN HEBRAS",
+        "marca": "DELHI TEA",
+        "nombreDeFantas\u00eda": "SWEET FLOWER",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.494",
+            "cuit": "30-65279599-0",
+            "domicilio": "Brasil 1100, BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T14:59:46.817Z",
+        "updatedAt": "2024-06-07T14:59:46.817Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2027-01-28T00:00:00"
+    },
+    {
+        "rnpa": "02588637",
+        "rne": "02032975",
+        "denominaci\u00f3n": "PREPARADO SEMIELABORADO EN POLVO, PARA PREPARAR HELADOS SABOR A PERA",
+        "marca": "FABBRI",
+        "nombreDeFantas\u00eda": "PERA L",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.494",
+            "cuit": "30-68519041-5",
+            "domicilio": "COLECTORA OESTE KM 38 N\ufffd180, BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T15:00:09.937Z",
+        "updatedAt": "2024-06-07T15:00:09.938Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2026-03-17T00:00:00"
+    },
+    {
+        "rnpa": "02511956",
+        "rne": "02031038",
+        "denominaci\u00f3n": "GALLETITAS DULCES CON SABOR A VAINILLA Y MIEL",
+        "marca": "FACHITAS",
+        "nombreDeFantas\u00eda": "TAPAS PARA ALFAJOR CON SABOR A MIEL Y VAINILLA MEDIANAS",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.494",
+            "cuit": "30-70784396-5",
+            "domicilio": "PASO 2824, BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T15:00:36.348Z",
+        "updatedAt": "2024-06-07T15:00:36.348Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2027-02-14T00:00:00"
+    },
+    {
+        "rnpa": "02588928",
+        "rne": "02032975",
+        "denominaci\u00f3n": "PREPARADO SEMIELABORADO SABOR A CREMA DE LICOR, PARA HELADERIA Y PASTELERIA / CONFITERIA. USO PROFESIONAL",
+        "marca": "FABBRI",
+        "nombreDeFantas\u00eda": "DELIPASTE IRISH CREAM",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.494",
+            "cuit": "30-68519041-5",
+            "domicilio": "COLECTORA OESTE KM 38 N\ufffd180, BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T15:00:54.865Z",
+        "updatedAt": "2024-06-07T15:00:54.866Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2026-04-10T00:00:00"
+    },
+    {
+        "rnpa": "02559133",
+        "rne": "02031280",
+        "denominaci\u00f3n": "SALSA A BASE DE MIEL Y JUGO DE LIM\u00d3N. LIBRE DE GLUTEN. SIN T.A.C.C.",
+        "marca": "ALELUYA",
+        "nombreDeFantas\u00eda": "",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.494",
+            "cuit": "30-61497470-9",
+            "domicilio": "Lavalle 1168, BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T15:01:15.443Z",
+        "updatedAt": "2024-06-07T15:01:15.443Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2024-10-24T00:00:00"
+    },
+    {
+        "rnpa": "02564570",
+        "rne": "02031280",
+        "denominaci\u00f3n": "ADEREZO A BASE DE MIEL Y MOSTAZA. LIBRE DE GLUTEN",
+        "marca": "ALELUYA",
+        "nombreDeFantas\u00eda": "HONEY MUSTARD SUAVE",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.494",
+            "cuit": "30-61497470-9",
+            "domicilio": "Lavalle 1168, BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T15:01:34.053Z",
+        "updatedAt": "2024-06-07T15:01:34.053Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2027-02-25T00:00:00"
+    },
+    {
+        "rnpa": "02563530",
+        "rne": "02031305",
+        "denominaci\u00f3n": "AROMATIZANTE ARTIFICIAL MIEL (POLVO) - USO INDUSTRIAL ALIMENTARIO",
+        "marca": "GIVAUDAN",
+        "nombreDeFantas\u00eda": "",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.494",
+            "cuit": "30-53619620-6",
+            "domicilio": "SAN LORENZO N\ufffd 4759, BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T15:01:54.062Z",
+        "updatedAt": "2024-06-07T15:01:54.062Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2025-11-04T00:00:00"
+    },
+    {
+        "rnpa": "02564018",
+        "rne": "02031038",
+        "denominaci\u00f3n": "GALLETITAS DULCES CON MIEL",
+        "marca": "FACHITAS",
+        "nombreDeFantas\u00eda": "BESOS DE MIEL",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.494",
+            "cuit": "30-70784396-5",
+            "domicilio": "PASO 2824, BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T15:02:18.257Z",
+        "updatedAt": "2024-06-07T15:02:18.257Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2026-04-29T00:00:00"
+    },
+    {
+        "rnpa": "02602495",
+        "rne": "02031280",
+        "denominaci\u00f3n": "SALSA BARBACOA CON MIEL. LIBRE DE GLUTEN. SIN T.A.C.C.",
+        "marca": "ALELUYA",
+        "nombreDeFantas\u00eda": "HONEY BARBECUE",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.494",
+            "cuit": "30-61497470-9",
+            "domicilio": "Lavalle 1168, BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T15:02:36.105Z",
+        "updatedAt": "2024-06-07T15:02:36.105Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2029-05-16T00:00:00"
+    },
+    {
+        "rnpa": "02700520",
+        "rne": "",
+        "denominaci\u00f3n": "MIEL CREMOSA LIBRE DE GLUTEN",
+        "marca": "ADORADA",
+        "nombreDeFantas\u00eda": "ADORADA - MIEL DE COSECHA TRADICIONAL CREMOSA",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.494",
+            "cuit": "30-71511054-3",
+            "domicilio": ", BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T15:02:54.407Z",
+        "updatedAt": "2024-06-07T15:02:54.407Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2024-07-30T00:00:00"
+    },
+    {
+        "rnpa": "02700521",
+        "rne": "",
+        "denominaci\u00f3n": "MIEL LIBRE DE GLUTEN",
+        "marca": "ADORADA",
+        "nombreDeFantas\u00eda": "ADORADA - MIEL DE COSECHA TRADICIONAL LIQUIDA",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.494",
+            "cuit": "30-71511054-3",
+            "domicilio": ", BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T15:03:14.301Z",
+        "updatedAt": "2024-06-07T15:03:14.301Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2024-07-30T00:00:00"
+    },
+    {
+        "rnpa": "02519624",
+        "rne": "02030077",
+        "denominaci\u00f3n": "COPOS DE MA\u00cdZ CON AZ\u00daCAR Y MIEL",
+        "marca": "GRANIX",
+        "nombreDeFantas\u00eda": "SKARCHITOS CON MIEL",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.494",
+            "cuit": "30-50097401-6",
+            "domicilio": "GENERAL SAN MARTIN 4625, BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T15:03:34.629Z",
+        "updatedAt": "2024-06-07T15:03:34.629Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2027-05-23T00:00:00"
+    },
+    {
+        "rnpa": "02591995",
+        "rne": "02032601",
+        "denominaci\u00f3n": "ALIMENTO A BASE DE JARABE DE MA\u00cdZ DE ALTA FRUCTOSA Y MIEL",
+        "marca": "EMETH",
+        "nombreDeFantas\u00eda": "ALIMENTO A BASE DE MIEL",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.494",
+            "cuit": "30-64221935-5",
+            "domicilio": "J. J. Paso 914, BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T15:03:58.311Z",
+        "updatedAt": "2024-06-07T15:03:58.311Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2027-04-19T00:00:00"
+    },
+    {
+        "rnpa": "02563041",
+        "rne": "02032975",
+        "denominaci\u00f3n": "PREPARADO EN PASTA SEMIELABORADO PARA RELLENO DE PASTELERIA Y HELADERIA SABOR AMARENA",
+        "marca": "FABBRI",
+        "nombreDeFantas\u00eda": "VARIEGATO AMARENA VCA",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.494",
+            "cuit": "30-68519041-5",
+            "domicilio": "COLECTORA OESTE KM 38 N\ufffd180, BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T15:04:16.651Z",
+        "updatedAt": "2024-06-07T15:04:16.651Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2026-03-17T00:00:00"
+    },
+    {
+        "rnpa": "02590273",
+        "rne": "02031305",
+        "denominaci\u00f3n": "AROMATIZANTE ID\u00c9NTICO AL NATURAL MIEL (POLVO) - USO INDUSTRIAL ALIMENTARIO",
+        "marca": "GIVAUDAN",
+        "nombreDeFantas\u00eda": "-",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.494",
+            "cuit": "30-53619620-6",
+            "domicilio": "SAN LORENZO N\ufffd 4759, BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T15:04:36.259Z",
+        "updatedAt": "2024-06-07T15:04:36.260Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2025-12-28T00:00:00"
+    },
+    {
+        "rnpa": "02589723",
+        "rne": "02032975",
+        "denominaci\u00f3n": "PREPARADO SEMIELABORADO EN POLVO PARA PREPARAR HELADOS SABOR NARANJA",
+        "marca": "FABBRI",
+        "nombreDeFantas\u00eda": "NARANJA L",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.494",
+            "cuit": "30-68519041-5",
+            "domicilio": "COLECTORA OESTE KM 38 N\ufffd180, BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T15:04:54.476Z",
+        "updatedAt": "2024-06-07T15:04:54.476Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2027-02-18T00:00:00"
+    },
+    {
+        "rnpa": "02593911",
+        "rne": "02035338",
+        "denominaci\u00f3n": "MIEL. LIBRE DE GLUTEN",
+        "marca": "CUARTO CRECIENTE",
+        "nombreDeFantas\u00eda": "",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.494",
+            "cuit": "30-71532498-5",
+            "domicilio": "Perito Moreno 375, BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T15:05:12.396Z",
+        "updatedAt": "2024-06-07T15:05:12.396Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2027-10-12T00:00:00"
+    },
+    {
+        "rnpa": "02591414",
+        "rne": "02031297",
+        "denominaci\u00f3n": "MIEL - LIBRE DE GLUTEN",
+        "marca": "NECTAR DE LOS DIOSES",
+        "nombreDeFantas\u00eda": "",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.494",
+            "cuit": "30-70787970-6",
+            "domicilio": "SANTA FE S/N, BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T15:05:31.879Z",
+        "updatedAt": "2024-06-07T15:05:31.879Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2026-09-07T00:00:00"
+    },
+    {
+        "rnpa": "02526584",
+        "rne": "02031280",
+        "denominaci\u00f3n": "MIEL LIBRE DE GLUTEN",
+        "marca": "ALELUYA",
+        "nombreDeFantas\u00eda": "MIEL L\u00cdQUIDA",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.494",
+            "cuit": "30-61497470-9",
+            "domicilio": "Lavalle 1168, BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T15:05:51.112Z",
+        "updatedAt": "2024-06-07T15:05:51.112Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2024-10-23T00:00:00"
+    },
+    {
+        "rnpa": "02710528",
+        "rne": "02032041",
+        "denominaci\u00f3n": "PROP\u00d3LEOS AL 2% CON MIEL Y JENGIBRE EN PROPILENGLICOL",
+        "marca": "BIOESENCIA",
+        "nombreDeFantas\u00eda": "PROP\u00d3LEOS CON JENGIBRE",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.494",
+            "cuit": "30-65279599-0",
+            "domicilio": "Brasil 1100, BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T15:06:08.810Z",
+        "updatedAt": "2024-06-07T15:06:08.811Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2025-05-19T00:00:00"
+    },
+    {
+        "rnpa": "02594903",
+        "rne": "02034053",
+        "denominaci\u00f3n": "MIEL ORGANICA LIBRE DE GLUTEN",
+        "marca": "ESTANCIA LAS QUINAS",
+        "nombreDeFantas\u00eda": "ORGANIC HONEY",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.494",
+            "cuit": "30-70895836-7",
+            "domicilio": "Pedrayes N\ufffd 1150, BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T15:06:27.840Z",
+        "updatedAt": "2024-06-07T15:06:27.840Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2026-05-07T00:00:00"
+    },
+    {
+        "rnpa": "02710629",
+        "rne": "",
+        "denominaci\u00f3n": "PRODUCTO A BASE DE AVENA CON MIEL Y ALMENDRAS",
+        "marca": "JHONNY\u00b4S MARKET",
+        "nombreDeFantas\u00eda": "GRANOLA - ALMENDRAS, AVENA Y MIEL",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.494",
+            "cuit": "20-30083915-1",
+            "domicilio": ", BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T15:06:49.156Z",
+        "updatedAt": "2024-06-07T15:06:49.156Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2025-06-12T00:00:00"
+    },
+    {
+        "rnpa": "02710630",
+        "rne": "",
+        "denominaci\u00f3n": "PRODUCTO A BASE DE AVENA CON MIEL, PASAS DE UVA Y ALMENDRAS.",
+        "marca": "JHONNY\u00b4S MARKET",
+        "nombreDeFantas\u00eda": "GRANOLA - ALMENDRAS, AVENA, MIEL Y PASAS DE UVA.",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.494",
+            "cuit": "20-30083915-1",
+            "domicilio": ", BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T15:07:07.194Z",
+        "updatedAt": "2024-06-07T15:07:07.195Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2025-06-12T00:00:00"
+    },
+    {
+        "rnpa": "02710631",
+        "rne": "",
+        "denominaci\u00f3n": "PRODUCTO A BASE DE MAN\u00cd Y ALMENDRAS CON AZ\u00daCAR MORENO, AR\u00c1NDANOS Y MIEL",
+        "marca": "JHONNY\u00b4S MARKET",
+        "nombreDeFantas\u00eda": "BARRA DE FRUTOS SECOS CON ARANDANOS",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.494",
+            "cuit": "20-30083915-1",
+            "domicilio": ", BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T15:07:24.330Z",
+        "updatedAt": "2024-06-07T15:07:24.330Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2025-06-12T00:00:00"
+    },
+    {
+        "rnpa": "02710632",
+        "rne": "",
+        "denominaci\u00f3n": "PRODUCTO A BASE DE MAN\u00cd Y ALMENDRAS CON PASAS DE UVA, AZ\u00daCAR MORENO Y MIEL",
+        "marca": "JHONNY\u00b4S MARKET",
+        "nombreDeFantas\u00eda": "BARRA DE FRUTOS SECOS CON PASAS",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.494",
+            "cuit": "20-30083915-1",
+            "domicilio": ", BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T15:07:43.673Z",
+        "updatedAt": "2024-06-07T15:07:43.673Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2025-06-12T00:00:00"
+    },
+    {
+        "rnpa": "02710633",
+        "rne": "",
+        "denominaci\u00f3n": "PRODUCTO A BASE DE MAN\u00cd Y ALMENDRAS CON CASTA\u00d1AS DE CAJU, AZ\u00daCAR MORENO Y MIEL",
+        "marca": "JHONNY\u00b4S MARKET",
+        "nombreDeFantas\u00eda": "BARRA DE FRUTOS SECOS CON CASTA\u00d1AS DE CAJU",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.494",
+            "cuit": "20-30083915-1",
+            "domicilio": ", BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T15:08:01.920Z",
+        "updatedAt": "2024-06-07T15:08:01.920Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2025-06-12T00:00:00"
+    },
+    {
+        "rnpa": "02564306",
+        "rne": "02032975",
+        "denominaci\u00f3n": "PREPARADO SEMIELABORADO SABOR A LECHE CONDENSADA PARA HELADER\u00cdA Y PASTELER\u00cdA/CONFITER\u00cdA - USO PROFESIONAL",
+        "marca": "FABBRI",
+        "nombreDeFantas\u00eda": "DELIPASTE LECHE CONDENSADA",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.494",
+            "cuit": "30-68519041-5",
+            "domicilio": "COLECTORA OESTE KM 38 N\ufffd180, BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T15:08:23.260Z",
+        "updatedAt": "2024-06-07T15:08:23.260Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2027-04-21T00:00:00"
+    },
+    {
+        "rnpa": "02514887",
+        "rne": "02034009",
+        "denominaci\u00f3n": "GALLETITAS DULCES CON SABOR A MIEL",
+        "marca": "AN",
+        "nombreDeFantas\u00eda": "PENSAMIENTO",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.494",
+            "cuit": "20-92868486-6",
+            "domicilio": "CALLE JUAN XXIII N\ufffd 2472, BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T15:08:41.049Z",
+        "updatedAt": "2024-06-07T15:08:41.049Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2027-01-13T00:00:00"
+    },
+    {
+        "rnpa": "02592439",
+        "rne": "02032123",
+        "denominaci\u00f3n": "CERVEZA CON SABOR A MIEL.",
+        "marca": "ANDES HONEY",
+        "nombreDeFantas\u00eda": "",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.494",
+            "cuit": "33-50835825-9",
+            "domicilio": "Ruta 9 Km 94, BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T15:09:00.485Z",
+        "updatedAt": "2024-06-07T15:09:00.485Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2027-02-17T00:00:00"
+    },
+    {
+        "rnpa": "02592607",
+        "rne": "02032975",
+        "denominaci\u00f3n": "PREPARADO SEMIELABAORADO EN POLVO, PARA PREPARAR HELADOS SABOR A MANDARINA",
+        "marca": "FABBRI",
+        "nombreDeFantas\u00eda": "MANDARINA L",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.494",
+            "cuit": "30-68519041-5",
+            "domicilio": "COLECTORA OESTE KM 38 N\ufffd180, BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T15:09:18.662Z",
+        "updatedAt": "2024-06-07T15:09:18.662Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2027-02-21T00:00:00"
+    },
+    {
+        "rnpa": "02593052",
+        "rne": "02030625",
+        "denominaci\u00f3n": "AROMATIZANTE ID\u00c9NTICO AL NATURAL MIEL (SOLUCI\u00d3N) - USO INDUSTRIAL ALIMENTARIO",
+        "marca": "FIRMENICH 584919 A",
+        "nombreDeFantas\u00eda": "",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.494",
+            "cuit": "33-53487696-9",
+            "domicilio": "RUTA PANAMERICANA E/202 Y RIO RECONQUISTA, BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T15:09:38.585Z",
+        "updatedAt": "2024-06-07T15:09:38.585Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2026-04-20T00:00:00"
+    },
+    {
+        "rnpa": "02594828",
+        "rne": "02031360",
+        "denominaci\u00f3n": "GALLETITAS DULCES CON SABOR A MIEL",
+        "marca": "DULCYPAS",
+        "nombreDeFantas\u00eda": "",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.494",
+            "cuit": "30-62798152-6",
+            "domicilio": "Almirante Brown 1749, BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T15:09:56.958Z",
+        "updatedAt": "2024-06-07T15:09:56.958Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2027-04-26T00:00:00"
+    },
+    {
+        "rnpa": "02711039",
+        "rne": "02031305",
+        "denominaci\u00f3n": "AROMATIZANTE ID\u00c9NTICO LA NATURAL MIEL, MOSTAZA Y CEBOLLA CON COLORANTE (POLVO) - USO INDUSTRIAL ALIMENTARIO",
+        "marca": "GIVAUDAN",
+        "nombreDeFantas\u00eda": "",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.494",
+            "cuit": "30-53619620-6",
+            "domicilio": "SAN LORENZO N\ufffd 4759, BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T15:10:15.761Z",
+        "updatedAt": "2024-06-07T15:10:15.761Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2025-10-26T00:00:00"
+    },
+    {
+        "rnpa": "02711066",
+        "rne": "02031305",
+        "denominaci\u00f3n": "POLVO A BASE DE MIEL - USO INDUSTRIAL ALIMENTARIO",
+        "marca": "GIVAUDAN",
+        "nombreDeFantas\u00eda": "",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.494",
+            "cuit": "30-53619620-6",
+            "domicilio": "SAN LORENZO N\ufffd 4759, BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T15:10:38.769Z",
+        "updatedAt": "2024-06-07T15:10:38.769Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2025-11-03T00:00:00"
+    },
+    {
+        "rnpa": "02593293",
+        "rne": "02030474",
+        "denominaci\u00f3n": "POLVO SEMIELABORADO BASE NEUTRO PARA ELABORAR HELADOS EN FRIO. USO INDUSTRIAL ALIMENTARIO",
+        "marca": "AROMITALIA",
+        "nombreDeFantas\u00eda": "DOPPIA BASE COCKTAIL",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.494",
+            "cuit": "30-58715019-7",
+            "domicilio": "Mitre 5186, BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T15:10:58.109Z",
+        "updatedAt": "2024-06-07T15:10:58.109Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2028-06-07T00:00:00"
+    },
+    {
+        "rnpa": "02523808",
+        "rne": "02032975",
+        "denominaci\u00f3n": "PREPARADO EN PASTA SEMIELABORADO PARA HELADER\u00cdA SABOR A MENTA",
+        "marca": "FABBRI",
+        "nombreDeFantas\u00eda": "DELIPASTE MENTA",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.494",
+            "cuit": "30-68519041-5",
+            "domicilio": "COLECTORA OESTE KM 38 N\ufffd180, BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T15:11:16.386Z",
+        "updatedAt": "2024-06-07T15:11:16.386Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2027-04-21T00:00:00"
+    },
+    {
+        "rnpa": "02525310",
+        "rne": "02032975",
+        "denominaci\u00f3n": "PREPARADO EN PASTA SEMIELABORADO PARA HELADER\u00cdA SABOR TIRAMIS\u00da",
+        "marca": "FABBRI",
+        "nombreDeFantas\u00eda": "DELIPASTE TIRAMIS\u00da",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.494",
+            "cuit": "30-68519041-5",
+            "domicilio": "COLECTORA OESTE KM 38 N\ufffd180, BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T15:11:58.473Z",
+        "updatedAt": "2024-06-07T15:11:58.474Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2027-08-17T00:00:00"
+    },
+    {
+        "rnpa": "02593280",
+        "rne": "02032975",
+        "denominaci\u00f3n": "PREPARADO SEMIELABORADO EN POLVO PARA PREPARAR BEBIDA SABOR DULCE DE LECHE",
+        "marca": "FABBRI - LATTE DULCE DE LECHE",
+        "nombreDeFantas\u00eda": "",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.494",
+            "cuit": "30-68519041-5",
+            "domicilio": "COLECTORA OESTE KM 38 N\ufffd180, BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T15:12:31.750Z",
+        "updatedAt": "2024-06-07T15:12:31.750Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2027-02-21T00:00:00"
+    },
+    {
+        "rnpa": "02590902",
+        "rne": "",
+        "denominaci\u00f3n": "ALIMENTO A BASE DE ALMENDRAS, PASAS DE UVA, SEMILLAS DE CH\u00cdA Y MIEL. LIBRE DE GLUTEN.",
+        "marca": "ZAFR\u00c1N",
+        "nombreDeFantas\u00eda": "SNACK ALMENDRAS Y PASAS DE UVA",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.494",
+            "cuit": "30-71396430-8",
+            "domicilio": ", BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T15:13:03.722Z",
+        "updatedAt": "2024-06-07T15:13:03.722Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2027-08-30T00:00:00"
+    },
+    {
+        "rnpa": "02518050",
+        "rne": "02032975",
+        "denominaci\u00f3n": "PREPARADO EN PASTA SEMIELABORADO PARA HELADERIA SABOR A AMARENA",
+        "marca": "FABBRI",
+        "nombreDeFantas\u00eda": "VARIEGATO AMARENA EXPORT",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.494",
+            "cuit": "30-68519041-5",
+            "domicilio": "COLECTORA OESTE KM 38 N\ufffd180, BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T15:13:21.873Z",
+        "updatedAt": "2024-06-07T15:13:21.873Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2027-01-24T00:00:00"
+    },
+    {
+        "rnpa": "02525046",
+        "rne": "02032975",
+        "denominaci\u00f3n": "PREPARADO EN PASTA SEMIELABORADO PARA HELADERIA SABOR A SAMBAYON",
+        "marca": "FABBRI",
+        "nombreDeFantas\u00eda": "DELIPASTE ZABAIONE AL MARSALA",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.494",
+            "cuit": "30-68519041-5",
+            "domicilio": "COLECTORA OESTE KM 38 N\ufffd180, BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T15:13:40.740Z",
+        "updatedAt": "2024-06-07T15:13:40.740Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2027-07-28T00:00:00"
+    },
+    {
+        "rnpa": "02593357",
+        "rne": "02030625",
+        "denominaci\u00f3n": "AROMATIZANTE ARTIFICIAL MIEL (POLVO) - USO INDUSTRIAL ALIMENTARIO",
+        "marca": "FIRMENICH 593727 TP0551C",
+        "nombreDeFantas\u00eda": "",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.495",
+            "cuit": "33-53487696-9",
+            "domicilio": "RUTA PANAMERICANA E/202 Y RIO RECONQUISTA, BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T15:13:59.267Z",
+        "updatedAt": "2024-06-07T15:13:59.267Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2026-06-16T00:00:00"
+    },
+    {
+        "rnpa": "02598997",
+        "rne": "02034222",
+        "denominaci\u00f3n": "SALSA A BASE DE FRUTOS ROJOS, VINO MALBEC Y MIEL. LIBRE DE GLUTEN",
+        "marca": "PAMPAGOURMET",
+        "nombreDeFantas\u00eda": "SALSA A BASE DE FRUTOS ROJOS, VINO MALBEC Y MIEL",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.495",
+            "cuit": "30-70978425-7",
+            "domicilio": "Rivadavia 926, BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T15:14:18.192Z",
+        "updatedAt": "2024-06-07T15:14:18.192Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2028-02-15T00:00:00"
+    },
+    {
+        "rnpa": "02592101",
+        "rne": "02034240",
+        "denominaci\u00f3n": "GALLETITAS DULCES CON MIEL",
+        "marca": "LEIVA",
+        "nombreDeFantas\u00eda": "GALLETITAS DULCES MARIA CON MIEL",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.495",
+            "cuit": "30-70969494-0",
+            "domicilio": "JUAN MANUEL DE ROSAS N\ufffd 370/84, BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T15:14:37.875Z",
+        "updatedAt": "2024-06-07T15:14:37.875Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2027-08-08T00:00:00"
+    },
+    {
+        "rnpa": "02711302",
+        "rne": "02035414",
+        "denominaci\u00f3n": "MIEL - LIBRE DE GLUTEN",
+        "marca": "YEMEL",
+        "nombreDeFantas\u00eda": "",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.495",
+            "cuit": "30-71357880-7",
+            "domicilio": "Ruta Provincial 76 e/ Sarmiento y Dorrego, BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T15:14:55.331Z",
+        "updatedAt": "2024-06-07T15:14:55.331Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2026-01-20T00:00:00"
+    },
+    {
+        "rnpa": "02711316",
+        "rne": "",
+        "denominaci\u00f3n": "SUPLEMENTO DIETARIO EN POLVO DIETETICO A BASE DE T\u00c9 SOLUBLE, MIEL, EXTRACTO DE T\u00c9 VERDE, VITAMINAS Y ZINC",
+        "marca": "MIZU NUTRICION Y COSMETICA",
+        "nombreDeFantas\u00eda": "CUP HONEY",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.495",
+            "cuit": "30-71679924-3",
+            "domicilio": ", BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T15:15:12.676Z",
+        "updatedAt": "2024-06-07T15:15:12.676Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2026-01-22T00:00:00"
+    },
+    {
+        "rnpa": "02566154",
+        "rne": "02032975",
+        "denominaci\u00f3n": "PREPARADO EN PASTA SEMIELABORADO DE ARANDANO PARA CONFITERIA Y PASTELERIA",
+        "marca": "FABBRI",
+        "nombreDeFantas\u00eda": "VARIEGATO MIRTILLO",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.495",
+            "cuit": "30-68519041-5",
+            "domicilio": "COLECTORA OESTE KM 38 N\ufffd180, BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T15:15:34.379Z",
+        "updatedAt": "2024-06-07T15:15:34.379Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2027-04-21T00:00:00"
+    },
+    {
+        "rnpa": "02711347",
+        "rne": "02035436",
+        "denominaci\u00f3n": "MIEL",
+        "marca": "TERRA PAMPA",
+        "nombreDeFantas\u00eda": "",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.495",
+            "cuit": "27-22768707-5",
+            "domicilio": "las heras 198, BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T15:15:54.252Z",
+        "updatedAt": "2024-06-07T15:15:54.252Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2026-02-01T00:00:00"
+    },
+    {
+        "rnpa": "02711357",
+        "rne": "02032226",
+        "denominaci\u00f3n": "MIEL DE ABEJA",
+        "marca": "LA GRANJA DE TITO",
+        "nombreDeFantas\u00eda": "",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.495",
+            "cuit": "20-17486046-8",
+            "domicilio": "calle 28 n 2030, BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T15:16:19.935Z",
+        "updatedAt": "2024-06-07T15:16:19.935Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2026-02-04T00:00:00"
+    },
+    {
+        "rnpa": "02567535",
+        "rne": "",
+        "denominaci\u00f3n": "SALSA A BASE DE MOSTAZA CON MIEL",
+        "marca": "DOS ANCLAS",
+        "nombreDeFantas\u00eda": "",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.495",
+            "cuit": "30-50129032-3",
+            "domicilio": ", BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T15:16:48.031Z",
+        "updatedAt": "2024-06-07T15:16:48.032Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2026-05-07T00:00:00"
+    },
+    {
+        "rnpa": "02566653",
+        "rne": "02034388",
+        "denominaci\u00f3n": "AROMATIZANTE IDENTICO AL NATURAL MIEL HIDROSOLUBLE - SOLUCION - USO INDUSTRIAL ALIMENTARIO",
+        "marca": "MEROAROMAS",
+        "nombreDeFantas\u00eda": "",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.495",
+            "cuit": "30-71029359-3",
+            "domicilio": "AV. REPUBLICA 250/54, BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T15:17:07.909Z",
+        "updatedAt": "2024-06-07T15:17:07.910Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2027-03-31T00:00:00"
+    },
+    {
+        "rnpa": "02700856",
+        "rne": "02032123",
+        "denominaci\u00f3n": "CERVEZA EXTRA CON TRIGO Y MIEL.",
+        "marca": "PATAGONIA ABRAZO DE OSO",
+        "nombreDeFantas\u00eda": "EN BARRIL",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.495",
+            "cuit": "33-50835825-9",
+            "domicilio": "Ruta 9 Km 94, BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T15:17:38.959Z",
+        "updatedAt": "2024-06-07T15:17:38.959Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2024-10-01T00:00:00"
+    },
+    {
+        "rnpa": "02594889",
+        "rne": "02032975",
+        "denominaci\u00f3n": "PREPARADO EN PASTA SEMIELABORADO DE ANAN\u00c1 MARACUY\u00c1 PARA PASTELER\u00cdA, CONFITER\u00cdA Y HELADER\u00cdA",
+        "marca": "FABBRI",
+        "nombreDeFantas\u00eda": "VARIEGATO ANAN\u00c1 MARACUY\u00c1",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.495",
+            "cuit": "30-68519041-5",
+            "domicilio": "COLECTORA OESTE KM 38 N\ufffd180, BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T15:18:01.177Z",
+        "updatedAt": "2024-06-07T15:18:01.178Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2027-04-21T00:00:00"
+    },
+    {
+        "rnpa": "02596741",
+        "rne": "02032041",
+        "denominaci\u00f3n": "T\u00c9 NEGRO CON CANELA, CACAO, Y C\u00c1SCARA DE NARANJA. SABOR CHOCOLATE, NARANJA Y MIEL, PARA INFUSI\u00d3N, EN SAQUITOS",
+        "marca": "DELHI TEA",
+        "nombreDeFantas\u00eda": "CHOCOLATE & ORANGE",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.495",
+            "cuit": "30-65279599-0",
+            "domicilio": "Brasil 1100, BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T15:18:23.183Z",
+        "updatedAt": "2024-06-07T15:18:23.183Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2027-02-16T00:00:00"
+    },
+    {
+        "rnpa": "02592762",
+        "rne": "02033854",
+        "denominaci\u00f3n": "CERVEZA CON MIEL",
+        "marca": "BARBAROJA",
+        "nombreDeFantas\u00eda": "CERVEZA HONEY",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.495",
+            "cuit": "30-70735114-0",
+            "domicilio": "RUTA PROV. 25 Nro. 2567, BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T15:18:41.658Z",
+        "updatedAt": "2024-06-07T15:18:41.658Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2028-06-13T00:00:00"
+    },
+    {
+        "rnpa": "02516027",
+        "rne": "02031020",
+        "denominaci\u00f3n": "AROMATIZANTE IDENTICO AL NATURAL MIEL (LIQUIDO) - USO INDUSTRIAL ALIMENTARIO",
+        "marca": "SYMRISE",
+        "nombreDeFantas\u00eda": "",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.495",
+            "cuit": "30-61159679-7",
+            "domicilio": "VALPARAISO 4125, BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T15:19:05.345Z",
+        "updatedAt": "2024-06-07T15:19:05.345Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2026-03-10T00:00:00"
+    },
+    {
+        "rnpa": "02711438",
+        "rne": "02035414",
+        "denominaci\u00f3n": "MIEL CREMOSA MONOFLORAL",
+        "marca": "USHUA",
+        "nombreDeFantas\u00eda": "GIRASOL",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.495",
+            "cuit": "30-71357880-7",
+            "domicilio": "Ruta Provincial 76 e/ Sarmiento y Dorrego, BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T15:19:32.643Z",
+        "updatedAt": "2024-06-07T15:19:32.643Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2026-02-25T00:00:00"
+    },
+    {
+        "rnpa": "02711439",
+        "rne": "02035414",
+        "denominaci\u00f3n": "MIEL CREMOSA MONOFLORAL",
+        "marca": "USHUA",
+        "nombreDeFantas\u00eda": "FLOR AMARILLA",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.495",
+            "cuit": "30-71357880-7",
+            "domicilio": "Ruta Provincial 76 e/ Sarmiento y Dorrego, BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T15:19:59.275Z",
+        "updatedAt": "2024-06-07T15:19:59.276Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2026-02-25T00:00:00"
+    },
+    {
+        "rnpa": "02711440",
+        "rne": "02035414",
+        "denominaci\u00f3n": "MIEL CREMOSA MONOFLORAL",
+        "marca": "USHUA",
+        "nombreDeFantas\u00eda": "ABREPU\u00d1O",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.495",
+            "cuit": "30-71357880-7",
+            "domicilio": "Ruta Provincial 76 e/ Sarmiento y Dorrego, BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T15:20:20.612Z",
+        "updatedAt": "2024-06-07T15:20:20.612Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2026-02-25T00:00:00"
+    },
+    {
+        "rnpa": "02711441",
+        "rne": "02035414",
+        "denominaci\u00f3n": "MIEL CREMOSA MONOFLORAL",
+        "marca": "USHU\u00c1",
+        "nombreDeFantas\u00eda": "CALD\u00c9N",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.495",
+            "cuit": "30-71357880-7",
+            "domicilio": "Ruta Provincial 76 e/ Sarmiento y Dorrego, BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T15:20:41.153Z",
+        "updatedAt": "2024-06-07T15:20:41.153Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2026-02-25T00:00:00"
+    },
+    {
+        "rnpa": "02711442",
+        "rne": "02035414",
+        "denominaci\u00f3n": "MIEL CREMOSA MONOFLORAL",
+        "marca": "USHU\u00c1",
+        "nombreDeFantas\u00eda": "EUCALIPTO",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.495",
+            "cuit": "30-71357880-7",
+            "domicilio": "Ruta Provincial 76 e/ Sarmiento y Dorrego, BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T15:21:00.276Z",
+        "updatedAt": "2024-06-07T15:21:00.276Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2026-02-25T00:00:00"
+    },
+    {
+        "rnpa": "02594348",
+        "rne": "02030625",
+        "denominaci\u00f3n": "AROMATIZANTE IDENTICO AL NATURAL MIEL (SOLUCION) - USO INDUSTRIAL ALIMENTARIO",
+        "marca": "FIRMENICH 504479 B",
+        "nombreDeFantas\u00eda": "",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.495",
+            "cuit": "33-53487696-9",
+            "domicilio": "RUTA PANAMERICANA E/202 Y RIO RECONQUISTA, BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T15:21:19.126Z",
+        "updatedAt": "2024-06-07T15:21:19.126Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2026-10-20T00:00:00"
+    },
+    {
+        "rnpa": "02594893",
+        "rne": "02032975",
+        "denominaci\u00f3n": "PREPARADO EN PASTA SEMIELABORADO DE DURAZNO NARANJA PARA PASTELER\u00cdA, CONFITER\u00cdA Y HELADER\u00cdA",
+        "marca": "FABBRI",
+        "nombreDeFantas\u00eda": "VARIEGATO DURAZNO NARANJA",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.495",
+            "cuit": "30-68519041-5",
+            "domicilio": "COLECTORA OESTE KM 38 N\ufffd180, BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T15:21:38.281Z",
+        "updatedAt": "2024-06-07T15:21:38.281Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2027-04-21T00:00:00"
+    },
+    {
+        "rnpa": "02594898",
+        "rne": "02032975",
+        "denominaci\u00f3n": "PREPARADO SEMIELABORADO EN POLVO, PARA PREPARAR CREMA SABOR YOGUR",
+        "marca": "FABBRI",
+        "nombreDeFantas\u00eda": "SOFFY YOGURT",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.495",
+            "cuit": "30-68519041-5",
+            "domicilio": "COLECTORA OESTE KM 38 N\ufffd180, BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T15:21:57.653Z",
+        "updatedAt": "2024-06-07T15:21:57.653Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2027-04-21T00:00:00"
+    },
+    {
+        "rnpa": "02711614",
+        "rne": "02041084",
+        "denominaci\u00f3n": "MIEL DE ABEJAS LIBRE DE GLUTEN",
+        "marca": "PAMPA DEL INDIO",
+        "nombreDeFantas\u00eda": "",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.495",
+            "cuit": "20-25085427-8",
+            "domicilio": "Circ. II, Secci\ufffdn D, Chacra 3, Fracci\ufffdn XII, Parcela 16, BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T15:22:15.361Z",
+        "updatedAt": "2024-06-07T15:22:15.361Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2026-03-10T00:00:00"
+    },
+    {
+        "rnpa": "02711616",
+        "rne": "02040181",
+        "denominaci\u00f3n": "MIEL",
+        "marca": "GRAZIANO C,M Y L SH",
+        "nombreDeFantas\u00eda": "GRAZIANO MIELES",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.495",
+            "cuit": "30-70835989-7",
+            "domicilio": "ZONA RURAL C v- SECC.a-CH.5-FRACC.1- PARC. 23 C -PART 498, BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T15:22:40.621Z",
+        "updatedAt": "2024-06-07T15:22:40.621Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2026-03-10T00:00:00"
+    },
+    {
+        "rnpa": "02711617",
+        "rne": "02040181",
+        "denominaci\u00f3n": "MIEL",
+        "marca": "GRAZIANO CARLOS M Y L SH",
+        "nombreDeFantas\u00eda": "GRAZIANO MIELES",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.495",
+            "cuit": "30-70835989-7",
+            "domicilio": "ZONA RURAL C v- SECC.a-CH.5-FRACC.1- PARC. 23 C -PART 498, BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T15:22:58.522Z",
+        "updatedAt": "2024-06-07T15:22:58.522Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2026-03-10T00:00:00"
+    },
+    {
+        "rnpa": "02711618",
+        "rne": "02040181",
+        "denominaci\u00f3n": "MIEL",
+        "marca": "GRAZIANO CARLOS , M Y L SH",
+        "nombreDeFantas\u00eda": "GRAZIANO MIELES",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.495",
+            "cuit": "30-70835989-7",
+            "domicilio": "ZONA RURAL C v- SECC.a-CH.5-FRACC.1- PARC. 23 C -PART 498, BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T15:23:17.643Z",
+        "updatedAt": "2024-06-07T15:23:17.643Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2026-03-10T00:00:00"
+    },
+    {
+        "rnpa": "02711619",
+        "rne": "02040181",
+        "denominaci\u00f3n": "MIEL",
+        "marca": "GRAZIANOCARLOS M Y L SH",
+        "nombreDeFantas\u00eda": "GRAZIANO MIELES",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.495",
+            "cuit": "30-70835989-7",
+            "domicilio": "ZONA RURAL C v- SECC.a-CH.5-FRACC.1- PARC. 23 C -PART 498, BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T15:23:42.445Z",
+        "updatedAt": "2024-06-07T15:23:42.445Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2026-03-10T00:00:00"
+    },
+    {
+        "rnpa": "02711620",
+        "rne": "02040181",
+        "denominaci\u00f3n": "MIEL",
+        "marca": "GRAZIANO CARLOS , M Y L SH",
+        "nombreDeFantas\u00eda": "GRAZIANO MIELES",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.495",
+            "cuit": "30-70835989-7",
+            "domicilio": "ZONA RURAL C v- SECC.a-CH.5-FRACC.1- PARC. 23 C -PART 498, BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T15:24:00.723Z",
+        "updatedAt": "2024-06-07T15:24:00.723Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2026-03-10T00:00:00"
+    },
+    {
+        "rnpa": "02711622",
+        "rne": "02030090",
+        "denominaci\u00f3n": "LECHE FERMENTADA CON PROBI\u00d3TICOS PARCIALMENTE DESCREMADA SIN LACTOSA SABOR NATURAL CON PREPARADO DE MIEL FORTIFICADA CON ZINC Y VITAMINAS D, B6 Y C LIBRE DE GLUTEN",
+        "marca": "LA SERENISIMA ACTIMEL",
+        "nombreDeFantas\u00eda": "",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.495",
+            "cuit": "30-50111624-2",
+            "domicilio": "BERLIN 50, BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T15:24:18.979Z",
+        "updatedAt": "2024-06-07T15:24:18.979Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2026-03-10T00:00:00"
+    },
+    {
+        "rnpa": "02519496",
+        "rne": "02032975",
+        "denominaci\u00f3n": "POLVO A BASE DE DEXTROSA ? SEMIELABORADO PARA PREPARAR GRANOS DE HIELO DULCE - GRANITA",
+        "marca": "FABBRI",
+        "nombreDeFantas\u00eda": "GRANITINA",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.495",
+            "cuit": "30-68519041-5",
+            "domicilio": "COLECTORA OESTE KM 38 N\ufffd180, BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T15:24:38.339Z",
+        "updatedAt": "2024-06-07T15:24:38.339Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2027-04-21T00:00:00"
+    },
+    {
+        "rnpa": "02519217",
+        "rne": "02032975",
+        "denominaci\u00f3n": "PREPARADO EN POLVO SEMIELABORADO PARA PASTELER\u00cdA (POLVO)",
+        "marca": "FABBRI",
+        "nombreDeFantas\u00eda": "PANNWIP'S",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.495",
+            "cuit": "30-68519041-5",
+            "domicilio": "COLECTORA OESTE KM 38 N\ufffd180, BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T15:24:56.265Z",
+        "updatedAt": "2024-06-07T15:24:56.265Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2027-04-21T00:00:00"
+    },
+    {
+        "rnpa": "02711648",
+        "rne": "",
+        "denominaci\u00f3n": "MIEL LIBRE DE GLUTEN",
+        "marca": "GERM\u00c1 BEHONEY",
+        "nombreDeFantas\u00eda": "MIEL L\u00cdQUIDA OSCURA",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.495",
+            "cuit": "30-71655636-7",
+            "domicilio": ", BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T15:25:16.134Z",
+        "updatedAt": "2024-06-07T15:25:16.134Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2026-03-11T00:00:00"
+    },
+    {
+        "rnpa": "02711649",
+        "rne": "",
+        "denominaci\u00f3n": "MIEL LIBRE DE GLUTEN",
+        "marca": "GERM\u00c1 BEHONEY",
+        "nombreDeFantas\u00eda": "MIEL L\u00cdQUIDA CLARA",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.495",
+            "cuit": "30-71655636-7",
+            "domicilio": ", BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T15:25:35.315Z",
+        "updatedAt": "2024-06-07T15:25:35.315Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2026-03-11T00:00:00"
+    },
+    {
+        "rnpa": "02711683",
+        "rne": "02032975",
+        "denominaci\u00f3n": "PREPARADO DIETETICO EN PASTA SEMIELABORADO PARA HELADERIA SABOR AMARENA REDUCIDO EN AZUCARES",
+        "marca": "FABBRI",
+        "nombreDeFantas\u00eda": "VARIEGATO AMARENA EXPORT LIGHT REDUCIDO EN AZUCARES",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.495",
+            "cuit": "30-68519041-5",
+            "domicilio": "COLECTORA OESTE KM 38 N\ufffd180, BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T15:25:56.099Z",
+        "updatedAt": "2024-06-07T15:25:56.099Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2026-03-17T00:00:00"
+    },
+    {
+        "rnpa": "02711711",
+        "rne": "",
+        "denominaci\u00f3n": "MIEL LIBRE DE GLUTEN",
+        "marca": "GERMA BEHONEY",
+        "nombreDeFantas\u00eda": "MIEL L\u00cdQUIDA CLARA",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.495",
+            "cuit": "30-71655636-7",
+            "domicilio": ", BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T15:26:13.948Z",
+        "updatedAt": "2024-06-07T15:26:13.949Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2026-03-18T00:00:00"
+    },
+    {
+        "rnpa": "02711712",
+        "rne": "",
+        "denominaci\u00f3n": "MIEL CREMOSA LIBRE DE GLUTEN",
+        "marca": "GERM\u00c1 BEHONEY",
+        "nombreDeFantas\u00eda": "MIEL CREMOSA",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.495",
+            "cuit": "30-71655636-7",
+            "domicilio": ", BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T15:26:31.194Z",
+        "updatedAt": "2024-06-07T15:26:31.194Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2026-03-18T00:00:00"
+    },
+    {
+        "rnpa": "02568236",
+        "rne": "02031305",
+        "denominaci\u00f3n": "SABORIZANTE ID\u00c9NTICO AL NATURAL MIEL MENTOLADA (SOLUCI\u00d3N) - USO INDUSTRIAL ALIMENTARIO",
+        "marca": "GIVAUDAN",
+        "nombreDeFantas\u00eda": "-",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.495",
+            "cuit": "30-53619620-6",
+            "domicilio": "SAN LORENZO N\ufffd 4759, BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T15:26:48.661Z",
+        "updatedAt": "2024-06-07T15:26:48.661Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2027-01-04T00:00:00"
+    },
+    {
+        "rnpa": "02711761",
+        "rne": "",
+        "denominaci\u00f3n": "CEREAL PARA DESAYUNO A BASE DE AVENA CON PASAS DE UVA, SEMILLAS DE GIRASOL, ALMENDRAS, CASTA\u00d1AS DE CAJ\u00da Y AVELLANAS, ENDULZADO CON MIEL.",
+        "marca": "THE HAPPY SNACK",
+        "nombreDeFantas\u00eda": "GRANOLA ENDULZADA CON MIEL",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.495",
+            "cuit": "30-70782301-8",
+            "domicilio": ", BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T15:27:06.373Z",
+        "updatedAt": "2024-06-07T15:27:06.373Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2026-03-23T00:00:00"
+    },
+    {
+        "rnpa": "02711785",
+        "rne": "02033526",
+        "denominaci\u00f3n": "SALSA A BASA DE MOSTAZA CON MIEL",
+        "marca": "LA PARMESANA",
+        "nombreDeFantas\u00eda": "MOSTAZA CON MIEL",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.495",
+            "cuit": "30-71230336-7",
+            "domicilio": "EX RUTA 41 Y RUTA 5, BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T15:27:23.682Z",
+        "updatedAt": "2024-06-07T15:27:23.682Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2026-03-25T00:00:00"
+    },
+    {
+        "rnpa": "02711787",
+        "rne": "02033526",
+        "denominaci\u00f3n": "ADEREZO A BASE DE CHIMICHURRI Y MIEL",
+        "marca": "LA PARMESANA",
+        "nombreDeFantas\u00eda": "CHIMICHURRI CON MIEL",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.495",
+            "cuit": "30-71230336-7",
+            "domicilio": "EX RUTA 41 Y RUTA 5, BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T15:27:43.814Z",
+        "updatedAt": "2024-06-07T15:27:43.814Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2026-03-25T00:00:00"
+    },
+    {
+        "rnpa": "02711846",
+        "rne": "02041154",
+        "denominaci\u00f3n": "MIEL",
+        "marca": "EL TIO GERARDO",
+        "nombreDeFantas\u00eda": "EL TIO GERARDO MIEL DE ABEJAS",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.495",
+            "cuit": "23-17006943-9",
+            "domicilio": "Jos\ufffd Mar\ufffda P\ufffdrez 235, BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T15:28:02.115Z",
+        "updatedAt": "2024-06-07T15:28:02.115Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2026-03-30T00:00:00"
+    },
+    {
+        "rnpa": "02711847",
+        "rne": "02041278",
+        "denominaci\u00f3n": "MIEL",
+        "marca": "MIEL LOS CHANGOS",
+        "nombreDeFantas\u00eda": "MIEL LOS CHANGOS",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.495",
+            "cuit": "30-64802914-0",
+            "domicilio": "RUTA 2 KM 92, BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T15:28:19.861Z",
+        "updatedAt": "2024-06-07T15:28:19.861Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2026-03-30T00:00:00"
+    },
+    {
+        "rnpa": "02711886",
+        "rne": "",
+        "denominaci\u00f3n": "PRODUCTO A BASE DE MAN\u00cd Y ALMENDRAS CON AZ\u00daCAR MORENO, CHOCOLATE Y MIEL",
+        "marca": "JHONNY\u00b4S MARKET",
+        "nombreDeFantas\u00eda": "BARRA DE FRUTOS SECOS CON CHOCO CHIPS",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.495",
+            "cuit": "20-30083915-1",
+            "domicilio": ", BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T15:28:37.327Z",
+        "updatedAt": "2024-06-07T15:28:37.327Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2026-04-07T00:00:00"
+    },
+    {
+        "rnpa": "02567551",
+        "rne": "02033482",
+        "denominaci\u00f3n": "GALLETITAS DULCES CON SABOR A MIEL",
+        "marca": "VIMAR",
+        "nombreDeFantas\u00eda": "",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.495",
+            "cuit": "30-70205154-8",
+            "domicilio": "Canad\ufffd 2632, BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T15:28:55.077Z",
+        "updatedAt": "2024-06-07T15:28:55.077Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2026-05-17T00:00:00"
+    },
+    {
+        "rnpa": "02712060",
+        "rne": "",
+        "denominaci\u00f3n": "MIEL LIBRE DE GLUTEN",
+        "marca": "REINAS DE CORAZONES",
+        "nombreDeFantas\u00eda": "REINAS",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.495",
+            "cuit": "27-27767029-7",
+            "domicilio": ", BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T15:29:13.053Z",
+        "updatedAt": "2024-06-07T15:29:13.053Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2026-04-19T00:00:00"
+    },
+    {
+        "rnpa": "02712065",
+        "rne": "02040142",
+        "denominaci\u00f3n": "MIEL DE ABEJAS",
+        "marca": "NAVARINO",
+        "nombreDeFantas\u00eda": "",
+        "origenDelProducto": "",
+        "firm": {
+            "razonSocial": "2024-06-17T08:06:29.495",
+            "cuit": "30-71584598-5",
+            "domicilio": "Rio Salado 8557, BUENOS AIRES"
+        },
+        "establishment": {
+            "fraccionadoPor": "",
+            "rne": "",
+            "domicilio": ""
+        },
+        "rneInfo": {
+            "propietario": "",
+            "establecimiento": "",
+            "domicilio": "",
+            "localidad": "",
+            "otorgado": "",
+            "veniciento": ""
+        },
+        "createdAt": "2024-06-07T15:29:32.935Z",
+        "updatedAt": "2024-06-07T15:29:32.935Z",
+        "__v": "",
+        "matchCount": "",
+        "veniciento": "2026-04-20T00:00:00"
+    }
+]

@@ -86,6 +86,7 @@ def extract_sub_link(sub_links):
                 form = driver.find_element(By.TAG_NAME, 'form')
                 break
             except:
+                print("Browser error occured. Refreshing ......")
                 driver.refresh()
 
         rnpa = item['rnpa']

@@ -78,11 +78,10 @@ def extract_sub_link(sub_links):
         driver.get(item['link'])
         sleep(1)
 
-        wait = WebDriverWait(driver, 10)
-        frame = wait.until(EC.frame_to_be_available_and_switch_to_it((By.ID, 'frame1')))
-
         while True:
             try:
+                wait = WebDriverWait(driver, 10)
+                wait.until(EC.frame_to_be_available_and_switch_to_it((By.ID, 'frame1')))
                 form = driver.find_element(By.TAG_NAME, 'form')
                 break
             except:

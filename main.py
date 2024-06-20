@@ -234,9 +234,7 @@ def insert_data_mongodb(json_data):
 if __name__ == "__main__":
     with open('output.json') as data:
         sub_links = json.load(data)
-
     print(len(sub_links))
-
     json_data = extract_sub_link(sub_links)
 
     # read_data_database()

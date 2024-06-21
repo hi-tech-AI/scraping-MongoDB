@@ -6,7 +6,6 @@ from selenium.webdriver.chrome.service import Service
 from time import sleep
 import json
 from datetime import datetime
-import uuid
 from pymongo import MongoClient
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC

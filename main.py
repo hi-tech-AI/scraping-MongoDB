@@ -81,92 +81,150 @@ def extract_sub_link(sub_links):
             try:
                 wait = WebDriverWait(driver, 10)
                 wait.until(EC.frame_to_be_available_and_switch_to_it((By.ID, 'frame1')))
-                form = driver.find_element(By.TAG_NAME, 'form')
-                break
-            except:
-                print("Browser error occured. Refreshing ......")
+                if driver.find_element(By.TAG_NAME, 'body').text == "Acceso denegado":
+                    rnpa = item['rnpa']
+                    denominación = item['denomination']
+                    marca = item['brand']
+                    nombreDeFantasía = item['fantastyName']
+
+                    final_result.append({
+                        "rnpa": rnpa,
+                        "rne": "",
+                        "denominación": denominación,
+                        "marca": marca,
+                        "nombreDeFantasía": nombreDeFantasía,
+                        "origenDelProducto": "",
+                        "firm": {
+                            "razonSocial": "",
+                            "cuit": "",
+                            "domicilio": ""
+                        },
+                        "establishment": {
+                            "fraccionadoPor": "",
+                            "rne": "",
+                            "domicilio": ""
+                        },
+                        "rneInfo": {
+                            "propietario": "",
+                            "establecimiento": "",
+                            "domicilio": "",
+                            "localidad": "",
+                            "otorgado": "",
+                            "vencimiento": ""
+                        },
+                        "createdAt": "",
+                        "updatedAt": "",
+                        "__v": "",
+                        "matchCount": "",
+                        "vencimiento": "",
+                        "date" : ""
+                    })
+
+                    with open('db_json.json', 'w') as data:
+                        json.dump(final_result, data, indent=4)
+                    
+                    driver.quit()
+                    break
+                else:
+                    form = driver.find_element(By.ID, 'form')
+                    rnpa = item['rnpa']
+                    if len(form.find_elements(By.TAG_NAME, 'table')[1].find_elements(By.TAG_NAME, 'tr')) > 1:
+                        rne = form.find_elements(By.TAG_NAME, 'table')[1].find_elements(By.TAG_NAME, 'tr')[1].find_elements(By.TAG_NAME, 'td')[0].text
+                        print(f'RNE : {rne}')
+                        razon_social = form.find_elements(By.TAG_NAME, 'table')[1].find_elements(By.TAG_NAME, 'tr')[1].find_elements(By.TAG_NAME, 'td')[1].text
+                        print(f"Razon Social : {razon_social}")
+                        firm_domicilio = form.find_elements(By.TAG_NAME, 'table')[1].find_elements(By.TAG_NAME, 'tr')[1].find_elements(By.TAG_NAME, 'td')[4].text + ", " + form.find_elements(By.TAG_NAME, 'table')[0].find_elements(By.TAG_NAME, 'tr')[1].find_elements(By.TAG_NAME, 'td')[1].text
+                        print(f'Firm Domicilio : {firm_domicilio}')
+                    else:
+                        rne = ""
+                        razon_social = ""
+                        firm_domicilio = form.find_elements(By.TAG_NAME, 'table')[0].find_elements(By.TAG_NAME, 'tr')[1].find_elements(By.TAG_NAME, 'td')[1].text
+
+                    denominación = item['denomination']
+                    marca = item['brand']
+                    nombreDeFantasía = item['fantastyName']
+
+                    origenDelProducto = ''
+
+                    cuit = form.find_elements(By.TAG_NAME, 'table')[0].find_elements(By.TAG_NAME, 'tr')[0].find_elements(By.TAG_NAME, 'td')[1].text
+                    print(f'CUIT : {cuit}')
+
+                    establishment_fraccionadoPor = ''
+                    establishment_rne = ''
+                    establishment_domicilio = ''
+
+                    h2_list = form.find_elements(By.TAG_NAME, 'h2')
+                    for h2 in h2_list:
+                        if 'Fecha de Vencimiento' in h2.text:
+                            # vencimiento_date = datetime.strptime(h2.text.split(': ')[-1] + " 00:00:00.000", "%d/%m/%Y %H:%M:%S.%f").isoformat(timespec='milliseconds')
+                            vencimiento_date = h2.text.split(': ')[-1]
+                            print(f'veniciento date : {vencimiento_date}')
+                    
+                    rneInfo_propietario = ''
+                    rneInfo_establecimiento = ''
+                    rneInfo_domicilio = ''
+                    rneInfo_localidad = ''
+                    rneInfo_otorgado_date = ''
+                    rneInfo_veniciento_date = ''
+
+                    createdAt = ''
+                    updatedAt = ''
+                    __v = ''
+                    matchCount = ''
+
+                    final_result.append({
+                        "rnpa": rnpa,
+                        "rne": rne,
+                        "denominación": denominación,
+                        "marca": marca,
+                        "nombreDeFantasía": nombreDeFantasía,
+                        "origenDelProducto": origenDelProducto,
+                        "firm": {
+                            "razonSocial": razon_social,
+                            "cuit": cuit,
+                            "domicilio": firm_domicilio
+                        },
+                        "establishment": {
+                            "fraccionadoPor": establishment_fraccionadoPor,
+                            "rne": establishment_rne,
+                            "domicilio": establishment_domicilio
+                        },
+                        "rneInfo": {
+                            "propietario": rneInfo_propietario,
+                            "establecimiento": rneInfo_establecimiento,
+                            "domicilio": rneInfo_domicilio,
+                            "localidad": rneInfo_localidad,
+                            "otorgado": rneInfo_otorgado_date,
+                            "vencimiento": rneInfo_veniciento_date
+                        },
+                        "createdAt": createdAt,
+                        "updatedAt": updatedAt,
+                        "__v": __v,
+                        "matchCount": matchCount,
+                        "vencimiento": '',
+                        "date" : vencimiento_date
+                    })
+
+                    with open('db_json.json', 'w') as data:
+                        json.dump(final_result, data, indent=4)
+                    
+                    driver.quit()
+                    break
+            except Exception as e:
+                print(f"Browser error occured : {e}.\nRefreshing ......")
                 driver.refresh()
 
-        rnpa = item['rnpa']
-        rne = form.find_elements(By.TAG_NAME, 'table')[1].find_elements(By.TAG_NAME, 'tr')[1].find_elements(By.TAG_NAME, 'td')[0].text
-        print(f'RNE : {rne}')
-        denominación = item['denomination']
-        marca = item['brand']
-        nombreDeFantasía = item['fantastyName']
-
-        origenDelProducto = ''
-        # razon_social = form.find_elements(By.TAG_NAME, 'table')[1].find_elements(By.TAG_NAME, 'tr')[1].find_elements(By.TAG_NAME, 'td')[1].text
-        razon_social = ''
-
-        cuit = form.find_elements(By.TAG_NAME, 'table')[0].find_elements(By.TAG_NAME, 'tr')[0].find_elements(By.TAG_NAME, 'td')[1].text
-        print(f'CUIT : {cuit}')
-        firm_domicilio = form.find_elements(By.TAG_NAME, 'table')[1].find_elements(By.TAG_NAME, 'tr')[1].find_elements(By.TAG_NAME, 'td')[4].text + ", " + form.find_elements(By.TAG_NAME, 'table')[0].find_elements(By.TAG_NAME, 'tr')[1].find_elements(By.TAG_NAME, 'td')[1].text
-        print(f'Firm Domicilio : {firm_domicilio}')
-
-        establishment_fraccionadoPor = ''
-        establishment_rne = ''
-        establishment_domicilio = ''
-
-        h2_list = form.find_elements(By.TAG_NAME, 'h2')
-        for h2 in h2_list:
-            if 'Fecha de Vencimiento' in h2.text:
-                # vencimiento_date = datetime.strptime(h2.text.split(': ')[-1] + " 00:00:00.000", "%d/%m/%Y %H:%M:%S.%f").isoformat(timespec='milliseconds')
-                vencimiento_date = h2.text.split(': ')[-1]
-                print(f'veniciento date : {vencimiento_date}')
-        
-        rneInfo_propietario = ''
-        rneInfo_establecimiento = ''
-        rneInfo_domicilio = ''
-        rneInfo_localidad = ''
-        rneInfo_otorgado_date = ''
-        rneInfo_veniciento_date = ''
-
-        createdAt = ''
-        updatedAt = ''
-        __v = ''
-        matchCount = ''
-
-        final_result.append({
-            "rnpa": rnpa,
-            "rne": rne,
-            "denominación": denominación,
-            "marca": marca,
-            "nombreDeFantasía": nombreDeFantasía,
-            "origenDelProducto": origenDelProducto,
-            "firm": {
-                "razonSocial": razon_social,
-                "cuit": cuit,
-                "domicilio": firm_domicilio
-            },
-            "establishment": {
-                "fraccionadoPor": establishment_fraccionadoPor,
-                "rne": establishment_rne,
-                "domicilio": establishment_domicilio
-            },
-            "rneInfo": {
-                "propietario": rneInfo_propietario,
-                "establecimiento": rneInfo_establecimiento,
-                "domicilio": rneInfo_domicilio,
-                "localidad": rneInfo_localidad,
-                "otorgado": rneInfo_otorgado_date,
-                "vencimiento": rneInfo_veniciento_date
-            },
-            "createdAt": createdAt,
-            "updatedAt": updatedAt,
-            "__v": __v,
-            "matchCount": matchCount,
-            "vencimiento": '',
-            "date" : vencimiento_date
-        })
-
-        with open('db_json.json', 'w') as data:
-            json.dump(final_result, data, indent=4)
-        
-        driver.quit()
-    
     print('Generate JSON file for inserting to MongoDB.')
     
     return final_result
+
+
+def process_json(json_data):
+    for item in json_data:
+        if "-" in item["date"]:
+            item["date"] = item["date"].replace("-", "/")
+    
+    return json_data
 
 
 def delete_data_database():
@@ -206,19 +264,10 @@ def get_database_collection_database():
 
 def insert_data_mongodb(json_data):
     for item in json_data:
-        # Testing
-        # item['vencimiento'] = datetime.strptime(item['veniciento'], '%Y-%m-%dT%H:%M:%S')
-        # item['rneInfo']['vencimiento'] = datetime.strptime(item['veniciento'], '%Y-%m-%dT%H:%M:%S')
-        # item['rneInfo']['otorgado'] = datetime.strptime(item['veniciento'], '%Y-%m-%dT%H:%M:%S')
-        # item['createdAt'] = datetime.now()
-        # item['updatedAt'] = datetime.now()
-        # item['matchCount'] = 0
-        # del item['veniciento']
-        # del item['rneInfo']['veniciento']
-
-        # Product
-        item['firm']['razonSocial'] = datetime.now()
-        item['vencimiento'] = datetime.strptime(item['date'], '%d/%m/%Y')
+        if item["date"] == "":
+            item['vencimiento'] = datetime.now()
+        else:
+            item['vencimiento'] = datetime.strptime(item['date'], '%d/%m/%Y')
         item['rneInfo']['vencimiento'] = item['vencimiento']
         item['rneInfo']['otorgado'] = item['vencimiento']
         item['createdAt'] = datetime.now()
@@ -243,5 +292,6 @@ if __name__ == "__main__":
 
     # read_data_database()
     # get_database_collection_database()
+    process_json_data = process_json(json_data)
     delete_data_database()
-    insert_data_mongodb(json_data)
+    insert_data_mongodb(process_json_data)

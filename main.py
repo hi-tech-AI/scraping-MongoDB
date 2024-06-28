@@ -17,53 +17,53 @@ load_dotenv()
 connection_string = os.getenv('CONNECTION_STRING')
 database = os.getenv('DATABASE')
 collection_name = os.getenv('COLLECTION')
-
+# Search condition : MIEL
 def get_main_link():
-    service = Service(executable_path=r"C:\chromedriver-win64\chromedriver.exe")   
+    service = Service(executable_path=r"C:\chromedriver-win641\chromedriver.exe")   
     options = Options()
     options.add_experimental_option("debuggerAddress", "127.0.0.1:9030")
     driver = webdriver.Chrome(service=service, options=options)
 
-    tbody_list = driver.find_element(By.ID, 'table-result2').find_elements(By.TAG_NAME, 'tbody')
-    
     output = []
-    for tbody in tbody_list:
-        tr_list = tbody.find_elements(By.TAG_NAME, 'tr')
-        for tr in tr_list:
-            sub_link = tr.find_element(By.TAG_NAME, 'a').get_attribute('href')
-            print(f'Sub Link : {sub_link}')
+    for i in range(1, 2):
+        print(f"\n----------- Page {i} -----------\n")
+        tbody_list = driver.find_element(By.ID, 'table-result2').find_elements(By.TAG_NAME, 'tbody')
+        
+        for tbody in tbody_list:
+            tr_list = tbody.find_elements(By.TAG_NAME, 'tr')
+            for tr in tr_list:
+                sub_link = tr.find_element(By.TAG_NAME, 'a').get_attribute('href')
+                print(f'Sub Link : {sub_link}')
 
-            rnpa = tr.find_element(By.TAG_NAME, 'a').text
-            print(f'RNPA : {rnpa}')
-            
-            td_list = tr.find_elements(By.TAG_NAME, 'td')
-            
-            denomination = td_list[1].text
-            print(f'Denomination : {denomination}')
+                rnpa = tr.find_element(By.TAG_NAME, 'a').text
+                print(f'RNPA : {rnpa}')
+                
+                td_list = tr.find_elements(By.TAG_NAME, 'td')
+                
+                denominación = td_list[1].text
+                print(f'Denomination : {denominación}')
 
-            fantasty_name = td_list[2].text
-            print(f'Fantasty Name : {fantasty_name}')
+                nombreDeFantasía = td_list[2].text
+                print(f'Fantasty Name : {nombreDeFantasía}')
 
-            brand = td_list[3].text
-            print(f'Brand : {brand}')
+                marca = td_list[3].text
+                print(f'Brand : {marca}')
 
-            headline = td_list[4].text
-            print(f'Headline : {headline}')
-
-            state = td_list[5].text
-            print(f'State : {state}')
-
-            output.append({"link" : sub_link,
-                        "rnpa" : rnpa,
-                        "denomination" : denomination,
-                        "fantastyName" : fantasty_name,
-                        "brand" : brand,
-                        "headline" : headline,
-                        "state" : state})
+                output.append({
+                    "link" : sub_link,
+                    "rnpa" : rnpa,
+                    "denominación" : denominación,
+                    "nombreDeFantasía" : nombreDeFantasía,
+                    "marca" : marca
+                    })
+        
+        next_button = driver.find_element(By.XPATH, '//*[@id="nextPageLi"]/a')
+        driver.execute_script("arguments[0].click();", next_button)
+        sleep(5)
     
     print(len(output))
     
-    with open('output.json', 'w') as data:
+    with open('output.json', 'a') as data:
         json.dump(output, data, indent=4)
     
     return output, driver
@@ -83,9 +83,9 @@ def extract_sub_link(sub_links):
                 wait.until(EC.frame_to_be_available_and_switch_to_it((By.ID, 'frame1')))
                 if driver.find_element(By.TAG_NAME, 'body').text == "Acceso denegado":
                     rnpa = item['rnpa']
-                    denominación = item['denomination']
-                    marca = item['brand']
-                    nombreDeFantasía = item['fantastyName']
+                    denominación = item['denominación']
+                    marca = item['marca']
+                    nombreDeFantasía = item['nombreDeFantasía']
 
                     final_result.append({
                         "rnpa": rnpa,
@@ -131,10 +131,13 @@ def extract_sub_link(sub_links):
                     if len(form.find_elements(By.TAG_NAME, 'table')[1].find_elements(By.TAG_NAME, 'tr')) > 1:
                         rne = form.find_elements(By.TAG_NAME, 'table')[1].find_elements(By.TAG_NAME, 'tr')[1].find_elements(By.TAG_NAME, 'td')[0].text
                         print(f'RNE : {rne}')
+
                         razon_social = form.find_elements(By.TAG_NAME, 'table')[1].find_elements(By.TAG_NAME, 'tr')[1].find_elements(By.TAG_NAME, 'td')[1].text
                         print(f"Razon Social : {razon_social}")
+
                         firm_domicilio = form.find_elements(By.TAG_NAME, 'table')[1].find_elements(By.TAG_NAME, 'tr')[1].find_elements(By.TAG_NAME, 'td')[4].text + ", " + form.find_elements(By.TAG_NAME, 'table')[0].find_elements(By.TAG_NAME, 'tr')[1].find_elements(By.TAG_NAME, 'td')[1].text
                         print(f'Firm Domicilio : {firm_domicilio}')
+                        
                     else:
                         rne = ""
                         razon_social = ""
@@ -284,14 +287,17 @@ def insert_data_mongodb(json_data):
     print(f"Total number of inserted document : {len(insert_data.inserted_ids)}")
     print(f"Total number of documents in the collection : {collection.count_documents({})}")
 
+
 if __name__ == "__main__":
-    with open('output.json') as data:
+    # get_main_link()
+    with open('output.json', 'r') as data:
         sub_links = json.load(data)
     print(len(sub_links))
     json_data = extract_sub_link(sub_links)
 
-    # read_data_database()
-    # get_database_collection_database()
+    # # read_data_database()
+    # # get_database_collection_database()
     process_json_data = process_json(json_data)
     delete_data_database()
     insert_data_mongodb(process_json_data)
+

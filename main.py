@@ -66,7 +66,7 @@ def get_main_link():
     with open('output.json', 'a') as data:
         json.dump(output, data, indent=4)
     
-    return output, driver
+    return output
 
 
 def extract_sub_link(sub_links):
@@ -81,7 +81,7 @@ def extract_sub_link(sub_links):
             try:
                 wait = WebDriverWait(driver, 10)
                 wait.until(EC.frame_to_be_available_and_switch_to_it((By.ID, 'frame1')))
-                if driver.find_element(By.TAG_NAME, 'body').text == "Acceso denegado":
+                if driver.find_element(By.TAG_NAME, 'body').text == "Acceso denegado" or driver.find_element(By.TAG_NAME, 'body').text == "":
                     rnpa = item['rnpa']
                     denominación = item['denominación']
                     marca = item['marca']
@@ -137,15 +137,15 @@ def extract_sub_link(sub_links):
 
                         firm_domicilio = form.find_elements(By.TAG_NAME, 'table')[1].find_elements(By.TAG_NAME, 'tr')[1].find_elements(By.TAG_NAME, 'td')[4].text + ", " + form.find_elements(By.TAG_NAME, 'table')[0].find_elements(By.TAG_NAME, 'tr')[1].find_elements(By.TAG_NAME, 'td')[1].text
                         print(f'Firm Domicilio : {firm_domicilio}')
-                        
+
                     else:
                         rne = ""
                         razon_social = ""
                         firm_domicilio = form.find_elements(By.TAG_NAME, 'table')[0].find_elements(By.TAG_NAME, 'tr')[1].find_elements(By.TAG_NAME, 'td')[1].text
 
-                    denominación = item['denomination']
-                    marca = item['brand']
-                    nombreDeFantasía = item['fantastyName']
+                    denominación = item['denominación']
+                    marca = item['marca']
+                    nombreDeFantasía = item['nombreDeFantasía']
 
                     origenDelProducto = ''
 
@@ -289,11 +289,8 @@ def insert_data_mongodb(json_data):
 
 
 if __name__ == "__main__":
-    # get_main_link()
-    with open('output.json', 'r') as data:
-        sub_links = json.load(data)
-    print(len(sub_links))
-    json_data = extract_sub_link(sub_links)
+    output = get_main_link()
+    json_data = extract_sub_link(output)
 
     # # read_data_database()
     # # get_database_collection_database()

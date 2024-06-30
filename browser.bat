@@ -1,1 +1,1 @@
-chrome.exe -remote-debugging-port=9030 --user-data-dir="C:\chromedriver-win641"
+chrome.exe -remote-debugging-port=9030 --user-data-dir="C:\chromedriver-win64"

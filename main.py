@@ -19,7 +19,7 @@ database = os.getenv('DATABASE')
 collection_name = os.getenv('COLLECTION')
 # Search condition : MIEL
 def get_main_link():
-    service = Service(executable_path=r"C:\chromedriver-win641\chromedriver.exe")   
+    service = Service(executable_path=r"C:\chromedriver-win64\chromedriver.exe")   
     options = Options()
     options.add_experimental_option("debuggerAddress", "127.0.0.1:9030")
     driver = webdriver.Chrome(service=service, options=options)

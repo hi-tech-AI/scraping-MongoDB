@@ -160,6 +160,9 @@ if __name__ == "__main__":
         if "-" in item["rnpa"]:
             item["rnpa"] = item["rnpa"].replace("-", "")
 
+        if "-" in item["rne"]:
+            item["rne"] = item["rne"].replace("-", "")
+            
     # read_data_database()
     # get_database_collection_database()
     # delete_data_database()

@@ -151,11 +151,15 @@ def insert_data_mongodb(json_data):
 
 
 if __name__ == "__main__":
-
     # json_data = get_main_link()
 
     with open("output.json", "r") as data:
         json_data = json.load(data)
+    
+    for item in json_data:
+        if "-" in item["rnpa"]:
+            item["rnpa"] = item["rnpa"].replace("-", "")
+
     # read_data_database()
     # get_database_collection_database()
     # delete_data_database()

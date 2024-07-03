@@ -226,7 +226,11 @@ def process_json(json_data):
     for item in json_data:
         if "-" in item["date"]:
             item["date"] = item["date"].replace("-", "/")
-    
+
+    for item in json_data:
+        if "-" in item["rnpa"]:
+            item["rnpa"] = item["rnpa"].replace("-", "")
+
     return json_data
 
 
@@ -292,9 +296,9 @@ if __name__ == "__main__":
     output = get_main_link()
     json_data = extract_sub_link(output)
 
-    # # read_data_database()
-    # # get_database_collection_database()
+    # read_data_database()
+    # get_database_collection_database()
+
     process_json_data = process_json(json_data)
     delete_data_database()
     insert_data_mongodb(process_json_data)
-

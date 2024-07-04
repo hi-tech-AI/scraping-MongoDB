@@ -18,6 +18,7 @@ connection_string = os.getenv('CONNECTION_STRING')
 database = os.getenv('DATABASE')
 collection_name = os.getenv('COLLECTION')
 # Search condition : MIEL https://inal.sifega.anmat.gob.ar/consultadealimentos/
+
 def get_main_link():
     service = Service(executable_path=r"C:\chromedriver-win64\chromedriver.exe")   
     options = Options()

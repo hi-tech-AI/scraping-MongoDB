@@ -71,10 +71,10 @@ def get_main_link():
 
 def extract_sub_link(sub_links):
     final_result = []
+    driver = webdriver.Chrome()
     for item_index, item in enumerate(sub_links, start=1):
         print(f"\n-------------- Print {item_index} --------------\n")
-        driver = webdriver.Chrome()
-        driver.get(item['link'])
+        driver.get(item["link"])
         sleep(1)
 
         while True:
@@ -137,7 +137,6 @@ def extract_sub_link(sub_links):
 
                         firm_domicilio = form.find_elements(By.TAG_NAME, 'table')[1].find_elements(By.TAG_NAME, 'tr')[1].find_elements(By.TAG_NAME, 'td')[4].text + ", " + form.find_elements(By.TAG_NAME, 'table')[0].find_elements(By.TAG_NAME, 'tr')[1].find_elements(By.TAG_NAME, 'td')[1].text
                         print(f'Firm Domicilio : {firm_domicilio}')
-
                     else:
                         rne = ""
                         razon_social = ""
@@ -152,9 +151,51 @@ def extract_sub_link(sub_links):
                     cuit = form.find_elements(By.TAG_NAME, 'table')[0].find_elements(By.TAG_NAME, 'tr')[0].find_elements(By.TAG_NAME, 'td')[1].text
                     print(f'CUIT : {cuit}')
 
-                    establishment_fraccionadoPor = ''
-                    establishment_rne = ''
-                    establishment_domicilio = ''
+                    try:
+                        if driver.find_element(By.ID, 'table-deposito-2'):
+                            if len(driver.find_element(By.ID, 'table-deposito-2').find_elements(By.TAG_NAME, 'tr')) > 1 and len(driver.find_element(By.ID, 'table-deposito-2').find_elements(By.TAG_NAME, 'tr')[1].find_elements(By.TAG_NAME, 'td')) > 1:
+                                establishment_fraccionadoPor = driver.find_elements(By.TAG_NAME, 'table')[2].find_elements(By.TAG_NAME, 'tr')[1].find_elements(By.TAG_NAME, 'td')[1].text
+                                print(f"fraccionadoPor : {establishment_fraccionadoPor}")
+
+                                establishment_rne = driver.find_elements(By.TAG_NAME, 'table')[2].find_elements(By.TAG_NAME, 'tr')[1].find_elements(By.TAG_NAME, 'td')[0].text
+                                print(f"rne : {establishment_rne}")
+
+                                establishment_domicilio = driver.find_elements(By.TAG_NAME, 'table')[2].find_elements(By.TAG_NAME, 'tr')[1].find_elements(By.TAG_NAME, 'td')[3].text + " " + driver.find_elements(By.TAG_NAME, 'table')[2].find_elements(By.TAG_NAME, 'tr')[1].find_elements(By.TAG_NAME, 'td')[4].text
+                                print(f"domicilio : {establishment_domicilio}")
+                            else:
+                                establishment_fraccionadoPor = ''
+                                establishment_rne = ''
+                                establishment_domicilio = ''
+                        else:
+                            establishment_fraccionadoPor = ''
+                            establishment_rne = ''
+                            establishment_domicilio = ''
+                    except:
+                        pass
+
+                    try:
+                        if len(establishment_fraccionadoPor) > 1:
+                            pass
+                        else:
+                            establishment_fraccionadoPor = ""
+                    except:
+                        establishment_fraccionadoPor = ""
+
+                    try:
+                        if len(establishment_domicilio) > 1:
+                            pass
+                        else:
+                            establishment_domicilio = ""
+                    except:
+                        establishment_domicilio = ""
+
+                    try:
+                        if len(establishment_rne) > 1:
+                            pass
+                        else:
+                            establishment_rne = ""
+                    except:
+                        establishment_rne = ""
 
                     h2_list = form.find_elements(By.TAG_NAME, 'h2')
                     for h2 in h2_list:
@@ -211,7 +252,7 @@ def extract_sub_link(sub_links):
                     with open('db_json.json', 'w') as data:
                         json.dump(final_result, data, indent=4)
                     
-                    driver.quit()
+                    # driver.quit()
                     break
             except Exception as e:
                 print(f"Browser error occured : {e}.\nRefreshing ......")
@@ -233,6 +274,9 @@ def process_json(json_data):
         if "-" in item["rne"]:
             item["rne"] = item["rne"].replace("-", "")
 
+        if "-" in item["establishment"]["rne"]:
+            item["establishment"]["rne"] = item["establishment"]["rne"].replace("-", "")
+            
     return json_data
 
 
@@ -296,12 +340,15 @@ def insert_data_mongodb(json_data):
 
 if __name__ == "__main__":
     # output = get_main_link()
-    # json_data = extract_sub_link(output)
+    with open('output.json', 'r') as data:
+        output = json.load(data)
+    json_data = extract_sub_link(output)
+
+    # with open('db_json.json', 'r') as data:
+    #     json_data = json.load(data)
 
     # read_data_database()
     # get_database_collection_database()
-    with open('db_json.json', 'r') as data:
-        json_data = json.load(data)
     process_json_data = process_json(json_data)
     delete_data_database()
     insert_data_mongodb(process_json_data)

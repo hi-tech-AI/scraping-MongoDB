@@ -96,6 +96,17 @@ def get_main_link():
     return output
 
 
+def process_json(json_data):
+    for item in json_data:
+        if "-" in item["rnpa"]:
+            item["rnpa"] = item["rnpa"].replace("-", "")
+
+        if "-" in item["rne"]:
+            item["rne"] = item["rne"].replace("-", "")
+            
+    return json_data
+
+
 def delete_data_database():
     confirm = input("Do you want to delete all the data on your database?(Y/N) : ")
     if confirm == "Y":
@@ -155,15 +166,8 @@ if __name__ == "__main__":
 
     with open("output.json", "r") as data:
         json_data = json.load(data)
-    
-    for item in json_data:
-        if "-" in item["rnpa"]:
-            item["rnpa"] = item["rnpa"].replace("-", "")
 
-        if "-" in item["rne"]:
-            item["rne"] = item["rne"].replace("-", "")
-            
     # read_data_database()
     # get_database_collection_database()
     # delete_data_database()
-    insert_data_mongodb(json_data)
+    insert_data_mongodb(process_json(json_data))
